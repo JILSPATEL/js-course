@@ -58,7 +58,7 @@ users[1].email
 const course = {
     coursename: "js in hindi",
     price: "999",
-    courseInstructor: "hitesh"
+    courseInstructor: "jils"
 }
 
 // course.courseInstructor
@@ -66,10 +66,10 @@ const course = {
 const {courseInstructor: instructor} = course
 
 // console.log(courseInstructor);
-console.log(instructor);
+//console.log(instructor);
 
 // {
-//     "name": "hitesh",
+//     "name": "jils",
 //     "coursename": "js in hindi",
 //     "price": "free"
 // }
